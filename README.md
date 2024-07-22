@@ -19,7 +19,9 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/prachapratik/MLflow_basic_demo.ml
 
 export MLFLOW_TRACKING_USERNAME=prachapratik
 
-# export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
+export MLFLOW_TRACKING_PASSWORD=031fc2484ddc03206e529c787121cab7a2cdcd2b
+
+
 
 
 ```
