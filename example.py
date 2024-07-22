@@ -82,7 +82,7 @@ if __name__ == "__main__":
 
 
         # For remote server only (AWS)
-        remote_server_uri = "http://ec2-54-147-36-34.compute-1.amazonaws.com:5000/"
+        remote_server_uri = "https://dagshub.com/prachapratik/MLflow_basic_demo.mlflow"
         mlflow.set_tracking_uri(remote_server_uri)
 
 
